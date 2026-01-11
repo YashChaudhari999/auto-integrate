@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
           method: "POST",
           headers: {
-            Authorization: `Bearer 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`,
+            Authorization: `API Key`,
             "Content-Type": "application/json"
           },
           body: JSON.stringify({
